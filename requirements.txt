@@ -1,0 +1,12 @@
+requirements
+pandas
+numpy
+yfinance
+pandas_ta
+scikit-learn
+xgboost
+plotly
+streamlit
+shap
+joblib
+matplotlib
