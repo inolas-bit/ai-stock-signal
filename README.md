@@ -12,7 +12,6 @@ A systematic pipeline that filters market noise through an XGBoost Classifier, p
  System Architecture
 The project follows a production-ready modular structure:
 
-Plaintext
 
 ai-stock-signal/
 │── data/               # Raw and processed OHLCV data
